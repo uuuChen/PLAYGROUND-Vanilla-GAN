@@ -1,7 +1,7 @@
 # PLAYGROUND-Vanilla-GAN
 
 ## Introduction
-This is a `vanilla gan` implementation trained in `MNIST`.
+This is a `vanilla gan` implementation trained on `MNIST`.
 
 ## Usage
 ```
