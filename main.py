@@ -18,7 +18,7 @@ parser.add_argument('--batch-size', '-bs', type=int, default=64)
 parser.add_argument('--epochs', '-ep', type=int, default=1024)
 parser.add_argument('--loss-log-freq', '-llf', type=int, default=100)
 parser.add_argument('--save-dir-path', '-sdp', type=str, default='./results')
-parser.add_argument('--save-fig-freq', '-sff', type=int, default=10)
+parser.add_argument('--save-fig-freq', '-sff', type=int, default=1)
 
 parser.add_argument('--generator-learning-rate', '-glr', type=float, default=5e-4)
 parser.add_argument('--generator-embedded-size', '-ges', type=int, default=128)
